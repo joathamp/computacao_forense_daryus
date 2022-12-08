@@ -69,6 +69,7 @@ Comandos                | Descrição
 [8]: ./Vagrantfile
 
 - Msc. Joatham Pedro
+
 Bacharel em Ciencia da Computacao
 Pós-Graduado em Redes de Computadores
 Mestre em Redes e Computação
