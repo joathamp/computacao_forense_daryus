@@ -69,23 +69,23 @@ Comandos                | Descrição
 [8]: ./Vagrantfile
 
 - Msc. Joatham Pedro
-- Bacharel em Ciencia da Computacao
-- Pós-Graduado em Redes de Computadores
-- Mestre em Redes e Computação
-- Analista Sênior de Segurança da Informação - 4Linux
-- Instrutor MBA Cybersecurity Gov TI - FATEC Cuiabá
-- Instrutor  MBA Cybersecurity - IMPACTA
-- Instrutor Pos Graduacao Computação Forense - Daryus
-- Linux Professional Institute I
-- Linux Professional Institute II
-- Linux Professional Institute III - Security
-- Data Center Technical Specialist
-- Novell Certified Linux Administrator (CLA)
-- Computer Hacking Forensic Investigator - C|HFI
-- Certified Ethical Hacker - C|EH
-- Certified Incident Handler - EC|IH
-- Exin Ethical Hacker - EXIN
-- DevOps Essential Professional - DEPC
-- youtube.com/eaiqualteupapo
+Bacharel em Ciencia da Computacao
+Pós-Graduado em Redes de Computadores
+Mestre em Redes e Computação
+Analista Sênior de Segurança da Informação - 4Linux
+Instrutor MBA Cybersecurity Gov TI - FATEC Cuiabá
+Instrutor  MBA Cybersecurity - IMPACTA
+Instrutor Pos Graduacao Computação Forense - Daryus
+Linux Professional Institute I
+Linux Professional Institute II
+Linux Professional Institute III - Security
+Data Center Technical Specialist
+Novell Certified Linux Administrator (CLA)
+Computer Hacking Forensic Investigator - C|HFI
+Certified Ethical Hacker - C|EH
+Certified Incident Handler - EC|IH
+Exin Ethical Hacker - EXIN
+DevOps Essential Professional - DEPC
+youtube.com/eaiqualteupapo
 
 - https://beacons.ai/qualteupapo
